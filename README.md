@@ -58,6 +58,10 @@ Once you're happy with your driver you'll want to start it on boot in case your 
 
 Install [forever](https://www.npmjs.com/package/forever) globally.
 
+```
+sudo npm install forever -g
+```
+
 Then create a new text file in`/etc/init.d/`:
 ```bash
 sudo nano /etc/init.d/grow
