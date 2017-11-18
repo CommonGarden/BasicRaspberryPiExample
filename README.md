@@ -29,7 +29,7 @@ npm install
 sudo node example-driver.js
 ```
 
-This example driver uses a BME280 climate sensor. If none is provided it will emit random numbers. See [johnny-five]() for lots of plug and play sensors.
+This example driver uses a [BME280](https://www.aliexpress.com/item/BME280-Digital-Sensor-Temperature-Humidity-Barometric-Pressure-Sensor-Module-I2C-SPI-1-8-5V-GY-BME280/32832733480.html?src=google&albslr=222159080&isdl=y&aff_short_key=UneMJZVf&source=%7Bifdyn:dyn%7D%7Bifpla:pla%7D%7Bifdbm:DBM&albch=DID%7D&src=google&albch=shopping&acnt=708-803-3821&isdl=y&albcp=653153647&albag=34728528644&slnk=&trgt=61865531738&plac=&crea=en32832733480&netw=g&device=c&mtctp=&gclid=EAIaIQobChMIis-vz5HH1wIVAdlkCh0QSANmEAQYAiABEgJBOPD_BwE) climate sensor. If none is provided it will emit random numbers. See [johnny-five]() for lots of plug and play sensors.
 
 ## Connecting to Grow-IoT
 By default, the example driver connects to https://grow.commongarden.org.
