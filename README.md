@@ -19,6 +19,12 @@ sudo cp -R * /usr/local/
 
 Test that's it's working with `node -v`.
 
+To clean up after yourself:
+
+```
+cd && sudo rm node-v8.6.0-linux-armv7l.tar.gz
+```
+
 Now we're ready for the rest of the install.
 
 ```bash
